@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-3b08f23794175439c884575f9f003fa9f79c9ffb.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-5cc471f39109ae39d33bf4bcfba2dbad1dadea1c.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-c0bd402c588d1aab59fbe4818075c211c67bcb05.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-44a9d8b17b137b061766d3135b52c2fdaa8b8862.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-578f7e091826afce0cde0b0699165d52748caf73.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-21da9af8c8164f219bbc1352d3a5e935180198d5.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-e9fd1c51128badb76065f723275f51b6a60ab787.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-8848671b839b21ccf1aea22013bae92ed9cfa85f.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f08ff846e6c950d8220d92aa993c9ccc5be30053.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-91b6a5a765178ea360c7fe17ebfcbcf8e5081d87.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-969cdb906f8df8b1813a49b12ce28585087bf332.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60e1da2c40a60ff372052eba4278e0cb252a3f3a">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-b99b4369143660eb6f18088c609d3e6309b1e2ab.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02f58fb4e333f5f258eedc4d1bc66032059aaf70">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-f93362c96f48608d17725194f77ad61b676453f7.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-5df373a042425f6beae749848d2d35a7493b4b42.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-8a95d589a8be9e7529821d291a118a1a558ca99a.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-24dc86f77ef4e724dc17982b1b8660f6d9443053.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-411602b64f194b0da00d71549cb150f1855e9424.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-0ae3e365c0fdb3c872167b2d067c292befb40bab.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-a93bf88ca56ac9cff311ecd77bd09817f404ea84.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-3f30e14504416659e7ede71786f2655a4b8def73.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2f688e404b14da86fb5f50f0844a28ee78330db3.jar" />
+    </item>
+    <item
+        jar="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/irvis/projects/imega/builder-reane/333/lolo/android/app/build/intermediates/pre-dexed/debug/classes-de371f79ead3de7430a71b2dea42b189e929a6c8.jar" />
+    </item>
+
+</items>
