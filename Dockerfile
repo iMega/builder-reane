@@ -1,4 +1,4 @@
-FROM node:argon-wheezy
+FROM node:6.0
 
 ENV NODE_ENV development
 ENV WATCHMAN_VER v4.5.0

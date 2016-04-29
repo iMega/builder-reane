@@ -1,8 +1,9 @@
 build:
 	@docker run --rm \
 		-v $(CURDIR):/data \
+		-w /data \
 		-v $$HOME/.node-cache:/cache \
-		leanlabs/npm-builder \
+		node:6 \
 		npm install
 
 init:

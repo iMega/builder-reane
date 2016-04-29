@@ -12,7 +12,7 @@ const App = ({
 }) =>
   <View style={styles.container}>
     <Text style={styles.welcome}>
-      Welcome222 to React Native!
+      Welcome333 to React Native!
     </Text>
     <Text style={styles.instructions}>
       To get started, edit index.{Platform.OS}.js
@@ -29,7 +29,7 @@ App.propTypes = {
 App.defaultProps = {
   ...Component.defaultProps,
   instructions: 'Usage instructions not provided.',
-}
+};
 
 let styles = StyleSheet.create({
   container: {
