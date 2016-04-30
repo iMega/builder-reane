@@ -17,8 +17,8 @@ RUN apt-get update && \
     rm -f $WATCHMAN_VER.tar.gz && \
     rm -rf /tmp/watchman
 
-VOLUME /app/src
+RUN npm install -g react-native-cli
+
+VOLUME /app
 
 WORKDIR /app
-
-CMD ["npm", "start"]
