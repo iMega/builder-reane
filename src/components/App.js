@@ -12,7 +12,7 @@ const App = ({
 }) =>
   <View style={styles.container}>
     <Text style={styles.welcome}>
-      Welcome333 to React Native!
+      Welcome to React Native!
     </Text>
     <Text style={styles.instructions}>
       To get started, edit index.{Platform.OS}.js

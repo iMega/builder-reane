@@ -1,14 +1,20 @@
 build:
 	@docker build -t reactor .
 
-serve:
-	@docker run -d -v $(CURDIR):/app -p 8081:8081 --name reactor reactor sh -c 'react-native start & sleep 10;gulp'
+device:
+	@docker run -d -v $(CURDIR):/app -p 8081:8081 -p 9013:9013 --name reactor reactor sh -c 'npm run device'
+
+web:
+	@docker run -d -v $(CURDIR):/app -p 8081:8081 -p 9013:9013 --name reactor reactor sh -c 'npm run web'
+
+bash:
+	@docker run -it --rm -v $(CURDIR):/app -p 8081:8081 -p 9013:9013 --name reactor reactor bash
 
 clean:
 	@docker rm -f reactor
 
-build2:
-	@docker run --rm \
+dep:
+	@docker run --rm -it \
 		-v $(CURDIR):/data \
 		-w /data \
 		-v $$HOME/.node-cache:/cache \
